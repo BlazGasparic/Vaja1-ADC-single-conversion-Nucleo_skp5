@@ -3,5 +3,5 @@ Slika vezja
 
 
 Slika Pinout
-![alt text](vaja1_vezje.jpeg)
+![alt text](vaja1_PINOUT.png)
 
