@@ -8,6 +8,7 @@ Slika Pinout
 
 
 Odgovori na vprašanja:
+
 __b)__ Zelena LED je priključena na pin PA5, modra tipka pa na pin PC13
 
 
