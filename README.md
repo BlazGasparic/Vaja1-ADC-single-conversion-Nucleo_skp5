@@ -1,1 +1,1 @@
-# Vaja1-ADC-single-conversion-Nucleo_skp5
+![alt text](vaja1_vezje.jpeg)
