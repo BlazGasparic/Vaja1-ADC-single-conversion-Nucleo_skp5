@@ -24,8 +24,11 @@ __f)__ Poleg pina se izpiše ADC3_IN1, to je pin PC0
 
 
 __i)__ 6-bit, od 0 do 63,
+
        8-bit, od 0 do 255,
+
        10-bit, od 0 do 1023,
+
        12-bit, od 0 do 4095
 
 
