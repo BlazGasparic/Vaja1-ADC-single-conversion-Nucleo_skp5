@@ -1,13 +1,13 @@
-Slika vezja
+__Slika vezja__
 ![alt text](vaja1_vezje.jpeg)
 
 
 
-Slika Pinout
+__Slika Pinout__
 ![alt text](vaja1_PINOUT.png)
 
 
-Odgovori na vprašanja:
+__Odgovori na vprašanja:__
 
 __b)__ Zelena LED je priključena na pin PA5, modra tipka pa na pin PC13
 
